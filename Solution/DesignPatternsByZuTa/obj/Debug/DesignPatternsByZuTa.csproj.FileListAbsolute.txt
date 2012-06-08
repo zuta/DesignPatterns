@@ -1,0 +1,1 @@
+C:\Users\Taras\Documents\Visual Studio 2012\Projects\DesignPatternsByZuTa\DesignPatternsByZuTa\bin\Debug\DesignPatternsByZuTa.exe.config
