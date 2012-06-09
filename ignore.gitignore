@@ -1,3 +1,4 @@
-Solution/*/bin
-Solution/*/obj
+Solution/*/bin/
+Solution/*/obj/
+
 Solution/*.suo

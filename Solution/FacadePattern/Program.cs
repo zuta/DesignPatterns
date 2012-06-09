@@ -14,6 +14,7 @@ namespace DesignPatternsByZuTa
         {
             Console.WriteLine("Using structural code : ");
             Console.WriteLine();
+
             
             Facade facade = new Facade();
 
