@@ -1,6 +1,1 @@
-C:\Users\Taras\Documents\Visual Studio 2012\Projects\DesignPatternsByZuTa\DesignPatternsByZuTa\bin\Debug\DesignPatternsByZuTa.exe.config
-C:\Users\Taras\Documents\Visual Studio 2012\Projects\DesignPatternsByZuTa\DesignPatternsByZuTa\bin\Debug\DesignPatternsByZuTa.exe
-C:\Users\Taras\Documents\Visual Studio 2012\Projects\DesignPatternsByZuTa\DesignPatternsByZuTa\bin\Debug\DesignPatternsByZuTa.pdb
-C:\Users\Taras\Documents\Visual Studio 2012\Projects\DesignPatternsByZuTa\DesignPatternsByZuTa\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
-C:\Users\Taras\Documents\Visual Studio 2012\Projects\DesignPatternsByZuTa\DesignPatternsByZuTa\obj\Debug\DesignPatternsByZuTa.exe
-C:\Users\Taras\Documents\Visual Studio 2012\Projects\DesignPatternsByZuTa\DesignPatternsByZuTa\obj\Debug\DesignPatternsByZuTa.pdb
+E:\Repositories\GitHub\DesignPatternsByZuTa\Solution\FacadePattern\bin\Debug\DesignPatternsByZuTa.exe.config
