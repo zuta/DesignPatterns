@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{A93714C6-CD14-41D2-BFFF-7D052DC9C468}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{C92B1944-1AAD-4CE2-94F8-4EB16FE7D264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{A93714C6-CD14-41D2-BFFF-7D052DC9C468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A93714C6-CD14-41D2-BFFF-7D052DC9C468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A93714C6-CD14-41D2-BFFF-7D052DC9C468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92B1944-1AAD-4CE2-94F8-4EB16FE7D264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92B1944-1AAD-4CE2-94F8-4EB16FE7D264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92B1944-1AAD-4CE2-94F8-4EB16FE7D264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92B1944-1AAD-4CE2-94F8-4EB16FE7D264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
